@@ -37,6 +37,7 @@ const Navbar = () => {
               } hover:text-white text-[18px] font-medium cursor-pointer`}
             >
               <a
+                data-cy={`${link.title}`}
                 href={`#${link.id}`}
                 onClick={() => {
                   setactive(link.title)
