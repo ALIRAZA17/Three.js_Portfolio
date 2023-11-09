@@ -124,6 +124,35 @@ const technologies = [
 
 const experiences = [
   {
+    title: 'Associate Software Engineer',
+    company_name: 'AEC Softwares',
+    icon: swam_tech,
+    iconBg: '#383E56',
+    date: 'June 2023 - Sep 2023',
+    points: [
+ 'Developed production-ready mobile applications using Flutter and Swift as an Associate Software Engineer at AEC Software House.',
+ 'Played a key role in designing and implementing mobile application features, ensuring functionality met project requirements.',
+ 'Collaborated with the development team to maintain code quality and adhere to best practices in mobile application development.',
+ 'Worked on both Flutter and Swift, showcasing versatility in mobile development for iOS and Android platforms.',
+ 'Engaged in the complete software development lifecycle, from ideation to deployment and maintenance.',
+ 'Conducted code reviews and actively participated in discussions to improve overall codebase quality and team collaboration.',
+ 'Applied problem-solving skills to address challenges and optimize mobile application performance.'
+    ]
+  },
+  {
+    title: 'Flutter Developer',
+    company_name: 'SWAM Tech',
+    icon: swam_tech,
+    iconBg: '#383E56',
+    date: 'June 2022 - Oct 2022',
+    points: [
+      'Developing and maintaining mobile applications using Flutter and other related technologies.',
+      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+      'Implementing responsive design and ensuring cross-browser compatibility.',
+      'Participating in code reviews and providing constructive feedback to other developers.'
+    ]
+  },
+  {
     title: 'Flutter Developer',
     company_name: 'SWAM Tech',
     icon: swam_tech,
