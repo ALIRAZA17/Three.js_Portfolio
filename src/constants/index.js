@@ -251,6 +251,27 @@ const testimonials = [
 
 const projects = [
   {
+    name: 'EaseTour',
+    description:
+      'A ride sharing mobile application that allows customers to book rides and have realtime chat and ride visualization features. Users can share rides to share fare among them.',
+    tags: [
+      {
+        name: 'Flutter',
+        color: 'blue-text-gradient'
+      },
+      {
+        name: 'Firebase',
+        color: 'green-text-gradient'
+      },
+      {
+        name: 'Google Maps API',
+        color: 'green-text-gradient'
+      }
+    ],
+    image: easetour,
+    source_code_link: 'https://github.com/ALIRAZA17/EaseTour'
+  },
+  {
     name: 'Jobify',
     description:
       'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
@@ -272,27 +293,7 @@ const projects = [
     image: jobify,
     source_code_link: 'https://github.com/ALIRAZA17/web-project'
   },
-  {
-    name: 'EaseTour',
-    description:
-      'A mobile application that allows customers to book rides and have realtime chat and ride visualization features. It also has a feature of ride sharing where you can share your ride with others to divide your fare. ',
-    tags: [
-      {
-        name: 'Flutter',
-        color: 'blue-text-gradient'
-      },
-      {
-        name: 'Firebase',
-        color: 'green-text-gradient'
-      },
-      {
-        name: 'Google Maps API',
-        color: 'green-text-gradient'
-      }
-    ],
-    image: easetour,
-    source_code_link: 'https://github.com/ALIRAZA17/EaseTour'
-  },
+ 
   {
     name: 'Talawa App',
     description:
