@@ -29,6 +29,8 @@ import {
   community,
   yaruq,
   shahryar,
+  hamza,
+  faizan,
   insta_logo,
   linkedIn_logo,
   gmail
@@ -227,6 +229,23 @@ const testimonials = [
     company: 'NSTP',
     image: yaruq
   }
+  ,
+  {
+    testimonial:
+      'I hired Ali raza for my website and he delivered everything requested. Cooperative and friendly.I Recommend.',
+    name: 'Muhammad Hamza',
+    designation: 'CEO',
+    company: 'Graysol',
+    image: hamza
+  },
+  {
+    testimonial:
+      "I hired Ali for my mobile app, and he delivered everything I asked for. I'm happy with his cooperative and friendly approach. Highly recommended.",
+    name: 'Faizan Naseem',
+    designation: 'President',
+    company: 'CSS GCU',
+    image: faizan
+  },
 ]
 
 const projects = [

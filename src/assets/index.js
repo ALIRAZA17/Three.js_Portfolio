@@ -36,6 +36,8 @@ import community from './community.png'
 
 import yaruq from './testimonials/yaruq_nadeem.jpeg'
 import shahryar from './testimonials/sheryar_khan.jpeg'
+import hamza from './testimonials/Hamza.png'
+import faizan from './testimonials/Faizan.png'
 
 import insta_logo from './insta_logo.png'
 import linkedIn_logo from './linkedIn_logo.png'
@@ -76,6 +78,8 @@ export {
   shopApp,
   yaruq,
   shahryar,
+  hamza,
+  faizan,
   insta_logo,
   linkedIn_logo,
   gmail
