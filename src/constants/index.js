@@ -27,6 +27,7 @@ import {
   upmeal,
   GDSC,
   community,
+  easetour,
   yaruq,
   shahryar,
   hamza,
@@ -272,21 +273,25 @@ const projects = [
     source_code_link: 'https://github.com/ALIRAZA17/web-project'
   },
   {
-    name: 'Coffee Shop App',
+    name: 'EaseTour',
     description:
-      'A mobile application that allows customers to order coffee and other beverages on the go. It provides a convenient way to browse the menu, place orders, without any wait. ',
+      'A mobile application that allows customers to book rides and have realtime chat and ride visualization features. It also has a feature of ride sharing where you can share your ride with others to divide your fare. ',
     tags: [
       {
-        name: 'kotlin',
+        name: 'Flutter',
         color: 'blue-text-gradient'
       },
       {
-        name: 'restapi',
+        name: 'Firebase',
+        color: 'green-text-gradient'
+      },
+      {
+        name: 'Google Maps API',
         color: 'green-text-gradient'
       }
     ],
-    image: shopApp,
-    source_code_link: 'https://github.com/ALIRAZA17/Shop-App-Kotlin'
+    image: easetour,
+    source_code_link: 'https://github.com/ALIRAZA17/EaseTour'
   },
   {
     name: 'Talawa App',

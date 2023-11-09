@@ -33,6 +33,7 @@ import talawa from './talawa.png'
 import upmeal_app from './upmeal.png'
 import instagram from './instagram.png'
 import community from './community.png'
+import easetour from './WeGo.png'
 
 import yaruq from './testimonials/yaruq_nadeem.jpeg'
 import shahryar from './testimonials/sheryar_khan.jpeg'
@@ -73,6 +74,7 @@ export {
   jobify,
   upmeal_app,
   community,
+  easetour,
   talawa,
   instagram,
   shopApp,
