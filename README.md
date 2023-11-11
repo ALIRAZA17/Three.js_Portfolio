@@ -3,6 +3,6 @@ This is my portfolio using Three.js and React.js. It has all the main things lik
 
 # How to run the project
 
-1- Clone this repository
-2- Install required packages
-3- Run 'npm run dev' to start the project 
+- Clone this repository
+- Install required packages
+- Run 'npm run dev' to start the project 
