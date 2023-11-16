@@ -6,4 +6,7 @@ This is my portfolio using Three.js and React.js. It has all the main things lik
 - Clone this repository
 - Install required packages
     - run `npm i --legacy-peer-deps`
-- Run `npm run dev` to start the project 
+- Run `npm run dev` to start the project
+
+
+Testing the netlify deployment
