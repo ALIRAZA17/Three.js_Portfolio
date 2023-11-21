@@ -25,7 +25,7 @@ import walee from './company/walee.jpeg'
 import swam_tech from './company/swam_tech.jpeg'
 import upmeal from './company/upmeal.png'
 import GDSC from './company/GDSC.png'
-import shadiyana from './company/Shadiyana.png'
+import shadiyana from './company/shadiyana.png'
 
 import jobify from './jobify.png'
 import shopApp from './ShopApp.png'
