@@ -16,7 +16,7 @@ import {
   figma,
   firebase,
   swam_tech,
-  Shadiyana,
+  shadiyana,
   walee,
   jobify,
   upmeal_app,
@@ -144,7 +144,7 @@ const experiences = [
   {
     title: 'MERN Stack Developer',
     company_name: 'Shadiyana',
-    icon: Shadiyana,
+    icon: shadiyana,
     iconBg: '#E6DEDD',
     date: 'July 2023 - Sep 2023',
     points: [
