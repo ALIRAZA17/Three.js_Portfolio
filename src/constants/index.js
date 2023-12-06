@@ -130,7 +130,7 @@ const experiences = [
   {
     title: 'Associate Software Engineer',
     company_name: 'AEC Softwares',
-    icon: "",
+    icon: swam_tech,
     iconBg: '#383E56',
     date: 'June 2023 - Sep 2023',
     points: [
