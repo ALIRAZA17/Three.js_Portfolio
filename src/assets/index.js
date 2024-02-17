@@ -26,6 +26,7 @@ import swam_tech from './company/swam_tech.jpeg'
 import upmeal from './company/upmeal.png'
 import GDSC from './company/GDSC.png'
 import shadiyana from './company/shadiyana.png'
+import dodao from './company/dodao.jpg'
 
 import jobify from './jobify.png'
 import shopApp from './ShopApp.png'
@@ -71,6 +72,7 @@ export {
   upmeal,
   GDSC,
   shadiyana,
+  dodao,
   jobify,
   upmeal_app,
   community,
