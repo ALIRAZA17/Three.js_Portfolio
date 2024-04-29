@@ -19,7 +19,7 @@ const Contact = () => {
         "service_0xbm4vd",
         "template_8c4r3uj",
         form.current,
-        "AafqkQNtv2wVcNiIf"
+        "MmXk2pHtt6kYyntGiD3rh"
       )
       .then(
         alert("Message sent successfully!!"),
