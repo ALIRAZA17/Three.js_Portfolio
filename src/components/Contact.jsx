@@ -48,7 +48,7 @@ const Contact = () => {
             <input
               type="text"
               name="user_name"
-              placeholder="'What's your name?"
+              placeholder="What's your name?"
               className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
             />
           </label>
@@ -57,7 +57,7 @@ const Contact = () => {
             <input
               type="email"
               name="user_email"
-              placeholder="'What's your email?"
+              placeholder="What's your email?"
               className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
             />
           </label>
