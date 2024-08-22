@@ -30,11 +30,11 @@ import dodao from "./company/dodao.jpg";
 
 import jobify from "./jobify.png";
 import shopApp from "./ShopApp.png";
-import talawa from "./talawa.png";
 import upmeal_app from "./upmeal.png";
 import instagram from "./instagram.png";
 import community from "./community.png";
 import easetour from "./WeGo.png";
+import graysol from "./graysol.png";
 
 import yaruq from "./testimonials/yaruq_nadeem.jpeg";
 import shahryar from "./testimonials/sheryar_khan.jpeg";
@@ -77,7 +77,7 @@ export {
   upmeal_app,
   community,
   easetour,
-  talawa,
+  graysol,
   instagram,
   shopApp,
   yaruq,
