@@ -268,7 +268,7 @@ const projects = [
   {
     name: "Graysol",
     description:
-      "Developed a comprehensive company website using the MERN stack, showcasing all aspects of the business. Implemented a dynamic content management system to allow easy updates and scalability.",
+      "A comprehensive company website showcasing all aspects of the business with a dynamic content management system to allow easy updates and scalability.",
     tags: [
       {
         name: "React JS",
