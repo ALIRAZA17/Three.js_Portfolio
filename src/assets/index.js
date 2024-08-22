@@ -29,7 +29,6 @@ import shadiyana from "./company/shadiyana.png";
 import dodao from "./company/dodao.jpg";
 
 import jobify from "./jobify.png";
-import shopApp from "./ShopApp.png";
 import upmeal_app from "./upmeal.png";
 import instagram from "./instagram.png";
 import community from "./community.png";
@@ -79,7 +78,6 @@ export {
   easetour,
   graysol,
   instagram,
-  shopApp,
   yaruq,
   shahryar,
   hamza,
