@@ -17,13 +17,11 @@ import {
   firebase,
   swam_tech,
   shadiyana,
-  walee,
   jobify,
   upmeal_app,
   graysol,
   instagram,
   threejs,
-  upmeal,
   GDSC,
   community,
   easetour,
@@ -35,6 +33,7 @@ import {
   linkedIn_logo,
   gmail,
   dodao,
+  geokits,
 } from "../assets";
 
 export const navLinks = [
@@ -128,15 +127,27 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Associate Software Engineer",
+    company_name: "GeoKits",
+    icon: geokits,
+    iconBg: "#383E56",
+    date: "Present",
+    points: [
+      "Leading mobile app development for GeoKits, developing a GIS-based app using Flutter, Firebase, Node.js, and Mapbox, displaying real-time natural event data on a map, managing all workflows and delivering a seamless user experience",
+      "Enhanced real-time updates using WebSockets and Node.js, improving user engagement.",
+      "Optimized load times and app performance through efficient coding practices.",
+    ],
+  },
+  {
     title: "Full Stack Developer",
     company_name: "DODAO",
     icon: dodao,
     iconBg: "#E6DEDD",
-    date: "Dec 2023 - Present",
+    date: "Dec 2023 - May 2024",
     points: [
-      "Spearheaded development on DoDAO's flagship website using Next.js, enhancing user experience and optimizing performance.",
-      "Implemented robust database solutions with Prisma and PostgreSQL.",
-      "Leveraged blockchain concepts to integrate cutting-edge features, enriching the platform's capabilities.",
+      "Created DODAO's flagship website and four additional products using a single, efficient codebase with Next.js, significantly boosting productivity and scalability.",
+      "Developed a highly dynamic solution, including a feature that allows users to launch their own websites in just 2-3 clicks, streamlining the user experience.",
+      "Implemented robust database solutions with Prisma, GraphQL and PostgreSQL, ensuring efficient data management",
     ],
   },
   {
@@ -146,10 +157,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "June 2023 - Sep 2023",
     points: [
-      "Developed production-ready mobile applications using Flutter and Swift as an Associate Software Engineer at AEC Software House.",
-      "Played a key role in designing and implementing mobile application features, ensuring functionality met project requirements.",
-      "Collaborated with the development team to maintain code quality and adhere to best practices in mobile application development.",
-      "Worked on both Flutter and Swift, showcasing versatility in mobile development for iOS and Android platforms along with different kinds of providers such as Riverpod.",
+      "Developed and maintained mobile applications using Flutter and Swift, contributing to two major projects.",
+      "Led the development of a legal app for a UK-based company, enabling lawyers to manage client data digitally with Flutter, Node.js, MongoDB, and Hive for offline storage.",
+      "Built an iOS streaming and quiz app with rewards, using Swift, delivering a smooth user experience.",
     ],
   },
   {
@@ -159,10 +169,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "July 2023 - Sep 2023",
     points: [
-      "Developed Shadiyana's website as a MERN Stack Developer during internship.",
-      "Collaborated with cross-functional teams, including designers and product managers and implemented responsive design practices for optimal user experience",
-      "Ensured cross-browser compatibility for widespread accessibility and actively participated in code reviews, providing constructive feedback",
-      "Gained valuable insights into startup dynamics and fast-paced development environment",
+      "Developed key components of Shadiyana's main website and a dedicated event website for a major event in Islamabad, handling both frontend and backend using the MERN stack.",
+      "Collaborated with cross-functional teams, including designers and product managers, to implement responsive design practices for an optimal user experience.",
+      "Actively participated in code reviews, offering constructive feedback to enhance code quality."
     ],
   },
   {
@@ -172,22 +181,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "June 2022 - Oct 2022",
     points: [
-      "Developing and maintaining mobile applications using Flutter and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "MERN Stack Developer",
-    company_name: "Walee",
-    icon: walee,
-    iconBg: "#E6DEDD",
-    date: "Nov 2022 - Dec 2022",
-    points: [
-      "As a MERN stack developer, I worked extensively with React.js and related technologies to build and maintain web applications.",
-      "Collaborating closely with designers, product managers, and other developers, I ensured that our products were of the highest quality and met our clients needs.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Developed a community assistance app using Flutter and Firebase,enabling users to share and fulfill requests within a 10km radius.",
+      "Integrated Google Maps API for real-time location-based services.",
+      "Delivered the project under contract for one of NSTP NUST's major companies."
     ],
   },
   {
@@ -201,19 +197,7 @@ const experiences = [
       "I have worked closely with team members to provide mentorship and guidance, resulting in a high-performing team that consistently delivers top-quality results.",
       "This has allowed me to develop a comprehensive understanding of mobile app development and management.",
     ],
-  },
-  {
-    title: "Lead Flutter Developer",
-    company_name: "Upmeal",
-    icon: upmeal,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "I have been responsible for leading the development of a discounted fine dining application for users in different restaurants.",
-      "Leveraging my expertise in Flutter, Dart, and related technologies, I have played a key role in the design, development of this innovative product.",
-      "Working closely with cross-functional teams, including designers, product managers, and other developers, I have ensured that the application meets the highest standards of quality and user experience.",
-    ],
-  },
+  }
 ];
 
 const testimonials = [
