@@ -20,7 +20,7 @@ import {
   walee,
   jobify,
   upmeal_app,
-  talawa,
+  graysol,
   instagram,
   threejs,
   upmeal,
@@ -282,6 +282,27 @@ const projects = [
     source_code_link: "https://github.com/ALIRAZA17/EaseTour",
   },
   {
+    name: "Graysol",
+    description:
+      "Developed a comprehensive company website using the MERN stack, showcasing all aspects of the business. Implemented a dynamic content management system to allow easy updates and scalability.",
+    tags: [
+      {
+        name: "React JS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Three JS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Node JS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: graysol,
+    source_code_link: "https://graysol.co/",
+  },
+  {
     name: "Jobify",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
@@ -302,28 +323,6 @@ const projects = [
     ],
     image: jobify,
     source_code_link: "https://github.com/ALIRAZA17/web-project",
-  },
-
-  {
-    name: "Talawa App",
-    description:
-      "Open-Source Mobile Application which helps community based organizations collaborate with their members through sharing information, events, and different resources.",
-    tags: [
-      {
-        name: "Flutter",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "GraphQL",
-        color: "green-text-gradient",
-      },
-      {
-        name: "MongoDB",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: talawa,
-    source_code_link: "https://github.com/ALIRAZA17/talawa",
   },
   {
     name: "Marham",
