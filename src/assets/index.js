@@ -21,12 +21,11 @@ import tailwind from "./tech/tailwind.png";
 import flutter from "./tech/flutter.jpg";
 import threejs from "./tech/threejs.svg";
 
-import walee from "./company/walee.jpeg";
 import swam_tech from "./company/swam_tech.jpeg";
-import upmeal from "./company/upmeal.png";
 import GDSC from "./company/GDSC.png";
 import shadiyana from "./company/shadiyana.png";
 import dodao from "./company/dodao.jpg";
+import geokits from "./company/geokits.png";
 
 import jobify from "./jobify.png";
 import upmeal_app from "./upmeal.png";
@@ -67,8 +66,7 @@ export {
   flutter,
   threejs,
   swam_tech,
-  walee,
-  upmeal,
+  geokits,
   GDSC,
   shadiyana,
   dodao,
